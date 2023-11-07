@@ -1,0 +1,52 @@
+{"properties": [
+  {
+    "name": "mail.default-encoding",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.default-encoding'"
+  },
+  {
+    "name": "mail.host",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.host'"
+  },
+  {
+    "name": "mail.password",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.password'"
+  },
+  {
+    "name": "mail.port",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.port'"
+  },
+  {
+    "name": "mail.properties.mail.smtp.auth",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.properties.mail.smtp.auth'"
+  },
+  {
+    "name": "mail.properties.mail.smtp.starttls.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.properties.mail.smtp.starttls.enable'"
+  },
+  {
+    "name": "mail.protocol",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.protocol'"
+  },
+  {
+    "name": "mail.username",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.username'"
+  },
+  {
+    "name": "management.security.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'management.security.enabled'"
+  },
+  {
+    "name": "security.basic.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'security.basic.enabled'"
+  }
+]}
