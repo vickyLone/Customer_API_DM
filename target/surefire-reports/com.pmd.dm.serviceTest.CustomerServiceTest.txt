@@ -1,0 +1,36 @@
+-------------------------------------------------------------------------------
+Test set: com.pmd.dm.serviceTest.CustomerServiceTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 8, Skipped: 0, Time elapsed: 0.001 s <<< FAILURE! - in com.pmd.dm.serviceTest.CustomerServiceTest
+testForgotPzwdSuccess  Time elapsed: 0.001 s  <<< ERROR!
+org.mockito.exceptions.base.MockitoException: testClass cannot be null. For info how to use @Mock annotations see examples in javadoc for MockitoAnnotations class
+	at com.pmd.dm.serviceTest.CustomerServiceTest.init(CustomerServiceTest.java:49)
+
+testGetCustomerByPhoneNumberFound  Time elapsed: 0 s  <<< ERROR!
+org.mockito.exceptions.base.MockitoException: testClass cannot be null. For info how to use @Mock annotations see examples in javadoc for MockitoAnnotations class
+	at com.pmd.dm.serviceTest.CustomerServiceTest.init(CustomerServiceTest.java:49)
+
+testFindByEmailAndPassword  Time elapsed: 0 s  <<< ERROR!
+org.mockito.exceptions.base.MockitoException: testClass cannot be null. For info how to use @Mock annotations see examples in javadoc for MockitoAnnotations class
+	at com.pmd.dm.serviceTest.CustomerServiceTest.init(CustomerServiceTest.java:49)
+
+testSaveCustomerExistingCustomer  Time elapsed: 0 s  <<< ERROR!
+org.mockito.exceptions.base.MockitoException: testClass cannot be null. For info how to use @Mock annotations see examples in javadoc for MockitoAnnotations class
+	at com.pmd.dm.serviceTest.CustomerServiceTest.init(CustomerServiceTest.java:49)
+
+testSaveCustomerSuccess  Time elapsed: 0 s  <<< ERROR!
+org.mockito.exceptions.base.MockitoException: testClass cannot be null. For info how to use @Mock annotations see examples in javadoc for MockitoAnnotations class
+	at com.pmd.dm.serviceTest.CustomerServiceTest.init(CustomerServiceTest.java:49)
+
+testSaveCustomerError  Time elapsed: 0 s  <<< ERROR!
+org.mockito.exceptions.base.MockitoException: testClass cannot be null. For info how to use @Mock annotations see examples in javadoc for MockitoAnnotations class
+	at com.pmd.dm.serviceTest.CustomerServiceTest.init(CustomerServiceTest.java:49)
+
+testGetCustomerByPhoneNumberNotFound  Time elapsed: 0 s  <<< ERROR!
+org.mockito.exceptions.base.MockitoException: testClass cannot be null. For info how to use @Mock annotations see examples in javadoc for MockitoAnnotations class
+	at com.pmd.dm.serviceTest.CustomerServiceTest.init(CustomerServiceTest.java:49)
+
+testForgotPzwdUserNotFound  Time elapsed: 0 s  <<< ERROR!
+org.mockito.exceptions.base.MockitoException: testClass cannot be null. For info how to use @Mock annotations see examples in javadoc for MockitoAnnotations class
+	at com.pmd.dm.serviceTest.CustomerServiceTest.init(CustomerServiceTest.java:49)
+

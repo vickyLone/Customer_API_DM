@@ -29,12 +29,12 @@ services:
       - ./target:/usr/local/tomcat/webapps
     networks:
       - eureka-network
-      - dairy-mgmt-frontend
+      
 
 networks:
   eureka-network:
     external: true  # Use the existing network created in the Eureka Docker Compose
-  dairy-mgmt-frontend:
-    external: true
+  # dairy-mgmt-frontend:
+  #   external: true
 volumes:
   mysql_data:
